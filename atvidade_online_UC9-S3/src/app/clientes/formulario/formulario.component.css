@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    font: 1rem black;
+    font-style: italic;
+    font-display: bold; 
+}
+.form-group, .form-check{
+    /* border: 0.25rem solid black; */
+}
+#container{
+    border: 0.25rem solid black;
+    box-sizing: border-box;
+    width: 350px;
+}
